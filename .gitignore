@@ -1,0 +1,13 @@
+__pyache__/
+*.pyc
+*.pyo
+venv/
+.env/
+config.py
+.vscode
+.ipynb_checkpoints/
+*.log
+runs/
+.env
+
+saved_summary_model
